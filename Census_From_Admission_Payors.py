@@ -14,7 +14,7 @@ import numpy as np
 import datetime as dt
 
 ATD = "C:/Users/kpoon/Desktop/KenPoon/Self/Python/MySQL/ATD_PowerBI_withoutPayor.sql"
-
+###"Hi, Stella Baby"
 
 
 ###Get Data From SQL
